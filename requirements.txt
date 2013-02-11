@@ -1,6 +1,9 @@
 ipdb==0.7
 ipython==0.13.1
+matplotlib==1.2.0
+numpy==1.6.2
 oauthlib==0.3.6
+pyproj==1.9.3
 requests==1.1.0
 requests-oauthlib==0.3.0
 wsgiref==0.1.2
